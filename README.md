@@ -11,4 +11,4 @@ If `reset` parameter is not provided, the subscription sources in the project's 
 
 * `divider`: The split character between returned tracker list. The default is newline(`\n`)
 * `append`: Subscription sources to be appended, splited by commas(`,`) between source URLs
-* `reset`: This replaces the subscription sources in the `list.txt` file, that splited by comma(`,`)
+* `reset`: This replaces the subscription sources in the `list.txt` file, that splited by commas(`,`) in the same way
